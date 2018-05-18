@@ -1,0 +1,5 @@
+#untracked files
+.settings
+bin/*
+.classpath
+.project
